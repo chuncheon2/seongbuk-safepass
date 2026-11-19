@@ -1,0 +1,11 @@
+{
+  "name": "seongbuk-safepass",
+  "version": "0.1.0",
+  "private": true,
+  "description": "성북 세이프패스 — 성북구 숙소 QR 다국어 생활 안내",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node --env-file=.env server.js",
+    "build-data": "node --env-file=.env tools/build-data.js"
+  }
+}

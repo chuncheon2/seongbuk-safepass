@@ -1,0 +1,114 @@
+{
+ "fetchedAt": "2026-11-05",
+ "source": "서울 열린데이터광장 서울시 문화행사 정보(OA-15486)",
+ "rows": [
+  {
+   "cat": "국악",
+   "title": "[삼청각] 수요 상설 공연 [삼청일화예술단]",
+   "place": "삼청각 일화당",
+   "start": "2026-02-25",
+   "end": "2026-12-30",
+   "time": "매주 수요일 18:30 ~ 20:35 (18:30 식사 / 19:30 공연)",
+   "target": "전체관람가",
+   "free": "유료",
+   "fee": "80,000원 (VAT 포함) 공연 및 식사 포함",
+   "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156402&menuNo=200008"
+  },
+  {
+   "cat": "전시/미술",
+   "title": "[문화공간이육사] 2026 기획전시 [육사답사]",
+   "place": "문화공간이육사 3층 교목실",
+   "start": "2026-05-18",
+   "end": "2026-11-14",
+   "time": "화 - 토 10:00 ~ 18:00 (입장마감 17:30)",
+   "target": "누구나",
+   "free": "무료",
+   "fee": "",
+   "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=158087&menuNo=200009"
+  },
+  {
+   "cat": "교육/체험",
+   "title": "[서울문화재단] 《PLAY-UP 아카데미》 장막극 창작 트레이닝",
+   "place": "서울연극창작센터",
+   "start": "2026-08-07",
+   "end": "2026-11-27",
+   "time": "매주 금요일 14:00~17:00, 총 15회차 (9.25, 10.9 휴강)",
+   "target": "경력 5년 이하의 극작가",
+   "free": "무료",
+   "fee": "",
+   "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=158629&menuNo=200011"
+  },
+  {
+   "cat": "교육/체험",
+   "title": "[서울문화재단] 《PLAY-UP 아카데미》 드라마투르기적 사고와 실전: 창작 현장에서의 드라마투르그 역할과 실전 이해",
+   "place": "서울연극창작센터",
+   "start": "2026-08-24",
+   "end": "2026-11-09",
+   "time": "14:00 ~ 17:00 (매주 월요일, 총 10회차)",
+   "target": "5편 이상, 10편 이하의 공연 참여경험이 있는 연극 예술인",
+   "free": "무료",
+   "fee": "",
+   "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=158894&menuNo=200011"
+  },
+  {
+   "cat": "교육/체험",
+   "title": "[성북문화예술교육센터] 2026 [오늘도 예술로] 가을 시즌 프로그램 안내",
+   "place": "성북문화예술교육센터",
+   "start": "2026-09-09",
+   "end": "2026-11-07",
+   "time": "프로그램별 상이",
+   "target": "누구나 (프로그램별 상이-초등,청소년~성인)",
+   "free": "무료",
+   "fee": "무료",
+   "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159181&menuNo=200011"
+  },
+  {
+   "cat": "교육/체험",
+   "title": "[국민대학교] 명원박물관 제9회 인문학특강 [동서 미술의 교류와 융합]",
+   "place": "명원박물관 상설전시실",
+   "start": "2026-10-02",
+   "end": "2026-11-11",
+   "time": "13:00~15:00",
+   "target": "연계 교과 수강생 및 교내외 누구나",
+   "free": "무료",
+   "fee": "",
+   "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159660&menuNo=200011"
+  },
+  {
+   "cat": "교육/체험",
+   "title": "2026 삼청각 명상 문화강좌 [마음을, 걷다]",
+   "place": "삼청각 천추당",
+   "start": "2026-11-05",
+   "end": "2026-11-12",
+   "time": "매주 목요일 11:00 ~ 13:00",
+   "target": "12세 이상 누구나",
+   "free": "무료",
+   "fee": "30,000원",
+   "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160022&menuNo=200011"
+  },
+  {
+   "cat": "교육/체험",
+   "title": "[고려대학교] 2026 모두의 AI·AX 캠프(초·중·고 대상)",
+   "place": "고려대학교 자연계캠퍼스 정운오IT교양관",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "time": "12:30~16:30",
+   "target": "초·중·고 학생 누구나",
+   "free": "무료",
+   "fee": "",
+   "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159818&menuNo=200011"
+  },
+  {
+   "cat": "콘서트",
+   "title": "[성북문화재단] 브런치콘서트 [11시11분] - 비바 바르셀로나",
+   "place": "꿈빛극장",
+   "start": "2026-11-20",
+   "end": "2026-11-21",
+   "time": "11:11",
+   "target": "8세 이상 관람가능",
+   "free": "유료",
+   "fee": "전석 15,000원",
+   "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159855&menuNo=200008"
+  }
+ ]
+}

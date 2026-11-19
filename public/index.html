@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Seongbuk SafePass · 성북 세이프패스</title>
+  <meta name="description" content="Air, rain, sights, food, events and daily-life tips around your stay in Seongbuk-gu, Seoul. EN / 中文 / 日本語">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2300FFA3'/%3E%3Cpath d='M9 10h14l-10 12h10' fill='none' stroke='%23000' stroke-width='3' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+  <link rel="stylesheet" href="app.css">
+  <script>
+    // 저장된 테마를 첫 그림 전에 적용한다 (저장소가 막혀 있어도 다크로 열린다)
+    try { var t = localStorage.getItem('sp-theme'); if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t); } catch (e) {}
+  </script>
+</head>
+<body>
+  <header class="top">
+    <div class="top-in">
+      <a class="brand" href="./" aria-label="Seongbuk SafePass"><span class="brand-mark" aria-hidden="true">Z</span><span class="brand-name">성북 세이프패스</span></a>
+      <div class="top-tools">
+        <div class="seg" role="group" aria-label="Language" id="langSeg"></div>
+        <button class="icon-btn" id="themeBtn" type="button" aria-label="Toggle theme"></button>
+      </div>
+    </div>
+    <nav class="chips" id="menu" aria-label="Menu"></nav>
+  </header>
+
+  <main id="app">
+    <section class="stay" id="stayBar" aria-live="polite"></section>
+
+    <section class="hero" id="safety" aria-labelledby="h-safety"></section>
+    <section class="block" id="places" aria-labelledby="h-places"></section>
+    <section class="block" id="food" aria-labelledby="h-food"></section>
+    <section class="block" id="events" aria-labelledby="h-events"></section>
+    <section class="block" id="life" aria-labelledby="h-life"></section>
+    <section class="block" id="ask" aria-labelledby="h-ask"></section>
+    <section class="block" id="more" aria-labelledby="h-more"></section>
+  </main>
+
+  <footer class="foot" id="foot"></footer>
+  <script src="app.js"></script>
+</body>
+</html>

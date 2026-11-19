@@ -1,0 +1,28 @@
+[
+ {
+  "id": "A",
+  "virtual": true,
+  "name": {
+   "ko": "한성대입구역 근처 게스트하우스",
+   "en": "Guesthouse near Hansung Univ. Station",
+   "zh": "汉城大学入口站附近民宿",
+   "ja": "漢城大学入口駅近くのゲストハウス"
+  },
+  "dong": "삼선동",
+  "lat": 37.5885,
+  "lng": 127.0063
+ },
+ {
+  "id": "B",
+  "virtual": true,
+  "name": {
+   "ko": "성북동 한옥 스테이",
+   "en": "Seongbuk-dong Hanok Stay",
+   "zh": "城北洞韩屋民宿",
+   "ja": "城北洞 韓屋ステイ"
+  },
+  "dong": "성북동",
+  "lat": 37.5946,
+  "lng": 126.9988
+ }
+]
