@@ -1,6 +1,6 @@
 /* 성북 세이프패스 — docs/디자인시스템/design.md 의 토큰을 따른다 (다크 기본, 라이트 전환 / 알약 버튼 / 4·8·12px 모서리 / 기능색 배지) */
 :root, :root[data-theme="dark"] {
-  --bg: #141517; --bg-weak: #0E0F10; --surface-weaker: #1C1D1F; --surface-weak: #202224; --surface: #2E3033; --surface-strong: #4D4D4D;
+  --bg: #141517; --bg-weak: #6B2145; --surface-weaker: #1C1D1F; --surface-weak: #202224; --surface: #2E3033; --surface-strong: #4D4D4D;
   --text: #FFFFFF; --text-2: #DFE2EA; --text-3: #9DA5B6; --text-weak: #697183;
   --brand: #00FFA3; --brand-2: #00E693; --brand-text: #00FFA3; --on-brand: #0E0F10; --brand-weaker: #11382C; --focus: #009962;
   --border: #2E3033; --border-2: #4D4D4D;
@@ -9,7 +9,7 @@
   --overlay-hover: rgba(255,255,255,.05); --overlay-selected: rgba(255,255,255,.12);
 }
 :root[data-theme="light"] {
-  --bg: #FFFFFF; --bg-weak: #F9F9F9; --surface-weaker: #FFFFFF; --surface-weak: #F0F1F2; --surface: #E1E1E5; --surface-strong: #D0D1D3;
+  --bg: #FFFFFF; --bg-weak: #FFD6E7; --surface-weaker: #FFFFFF; --surface-weak: #F0F1F2; --surface: #E1E1E5; --surface-strong: #D0D1D3;
   --text: #0E0F10; --text-2: #202224; --text-3: #4D4D4D; --text-weak: #6D6E70;
   --brand: #1BB373; --brand-2: #32BB81; --brand-text: #23815A; --on-brand: #FFFFFF; --brand-weaker: #DDF4EA; --focus: #49C28F;
   --border: #D0D1D3; --border-2: #C0C1C2;
